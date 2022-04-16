@@ -1,6 +1,9 @@
 # python-for-data-analysis
 Python tutorials for data analysis
 
+* Based on materials from Kaggle:
+https://www.kaggle.com/code/hamelg/python-for-data-analysis-index/notebook
+
 ## Section 1: Getting Started
 
 1: Getting Started
